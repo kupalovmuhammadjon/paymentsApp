@@ -1,0 +1,8 @@
+UserData:
+Name: Muhammadjon
+Surname: Ko'palov
+PhoneNumber: +998931234567
+Username: kmuhammadjon
+Password: 1234567890
+WalletNumber: 85306
+Balance: 5430766.65
