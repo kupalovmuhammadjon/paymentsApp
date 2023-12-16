@@ -1,0 +1,18 @@
+Wallet holder: example ex
+Total Deposit: 23456.00
+Date and time: 16.12.2023	13:41
+Issued by: FAKE PAYMENTS LLC
+
+
+
+
+From: example ex
+To whom: 123
+Transfer amount: 321.00
+Commission: 0.32
+Total: 321.32
+Date and time: 16.12.2023	13:42
+Issued by: FAKE PAYMENTS LLC
+
+
+
